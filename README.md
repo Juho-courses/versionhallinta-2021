@@ -1,1 +1,6 @@
-# Versionhallinta -opintojakso, syksy 2021
+# Versionhallinta -opintojakso
+
+- 2022
+- 2021
+
+
